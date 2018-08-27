@@ -61,7 +61,7 @@ firstClient.chatMessage(steamID, "Type !comment for +rep on your profile");
 
 firstClient.on("friendMessage", function(steamID, message) {
   if (message == "!comment") {
-    firstClient.chatMessage(steamID, "ok i comment you profile !")
-    firstCommunity.postUserComment(steamID, "+REP Signed by dife")
+    firstClient.chatMessage(steamID, "OK i comment you profile !")
+    firstCommunity.postUserComment(steamID, "+REP")
   }
 });
