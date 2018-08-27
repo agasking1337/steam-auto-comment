@@ -45,12 +45,12 @@ pause
 ```
 And save as start.bat in steam-rep-bot folder.
 
-##HOW TO USE 
+####HOW TO USE 
 
 Send !comment or !help to write +rep on you profile 
 
-#To use another signature change this
+#####To use another signature change this
 
-#firstCommunity.postUserComment(steamID, "+REP")
+######firstCommunity.postUserComment(steamID, "+REP")
 
-#firstCommunity.postUserComment(steamID, "+REP Signed by .......you steam name")
+#######firstCommunity.postUserComment(steamID, "+REP Signed by .......you steam name")
