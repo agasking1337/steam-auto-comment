@@ -44,3 +44,7 @@ node index.js
 pause
 ```
 And save as start.bat in steam-rep-bot folder.
+##HOW TO USE 
+Send !comment or !help to write +rep on you profile 
+
+
